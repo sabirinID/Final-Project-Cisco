@@ -9,3 +9,9 @@ Final Project ini disusun sebagai salah satu syarat untuk menyelesaikan *PCAP™
 
 ## Data Source
 [Dataset](https://archive-beta.ics.uci.edu/dataset/735/cisco+secure+workload+networks+of+computing+hosts) yang digunakan dalam analisis saya, diperoleh dari **UC Irvine Machine Learning Repository**.
+
+## License
+The source code for the site is licensed under the MIT license, which you can find [here](https://github.com/sabirinID/Final-Project-Quattro/blob/main/LICENCE).
+
+## References
+Madani, Omid. (2022). Cisco Secure Workload Networks of Computing Hosts. UCI Machine Learning Repository.
