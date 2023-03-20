@@ -1,0 +1,2 @@
+# About this file
+In-Vehicle Coupon Recommendation Dataset from UCI Machine Learning Repository.
