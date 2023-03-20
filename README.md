@@ -38,9 +38,9 @@ Final Project ini disusun sebagai salah satu syarat untuk menyelesaikan *PCAP™
 - Splitting Data (Data Train and Data Test)
 - Feature Engineering
 - Model Testing
-- Tuning Hyperparameters and feature selection
+- Feature Selection and Hyperparameter Tuning
 - Model Selection
-- Evaluation most impacful/influence to model output using shap library
+- Evaluation
 
 ## License
 The source code for the site is licensed under the MIT license, which you can find [here](https://github.com/sabirinID/Final-Project-Cisco/blob/main/LICENSE).
